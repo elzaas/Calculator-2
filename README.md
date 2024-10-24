@@ -1,4 +1,4 @@
-## BRIEFLY Explonation 
+## BRIEFLY Explanation 
 
 
 В этом коде я создал контроллер простого калькулятора, используя JavaFX. 
